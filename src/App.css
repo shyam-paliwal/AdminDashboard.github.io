@@ -1,0 +1,14 @@
+.container{
+  flex: 1;
+  display: flex;
+  margin-top: 10px;
+}
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}
+
+*{
+  background-color: rgb(226, 220, 224);
+}
